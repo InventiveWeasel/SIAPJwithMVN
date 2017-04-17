@@ -1,0 +1,11 @@
+SenderFactory.class
+ValidadorProcesso.class
+MailSender.class
+ServiceMail.class
+IRespositorioProcessos.class
+DefaultSender$1.class
+DefaultSender.class
+RepositorioProcessos.class
+ValidadorProcessoInterface.class
+ControladorSIAPJ.class
+Processo.class
